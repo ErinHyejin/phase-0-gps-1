@@ -12,3 +12,4 @@ Do this:
 
 `git clone`
 
+A small change that will cause a conflict.
